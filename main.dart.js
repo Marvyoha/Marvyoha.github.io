@@ -64701,7 +64701,7 @@ s=A.Dq(a,!0,t.eC)
 r=A.ab(a)
 return A.a8b(A.Nm(!0,!0,A.fx("Olewuezi Marvellous",A.a8B(a))),r.ax.k2,A.a8a(!0,new A.fk(B.Ax,new A.tS(B.bW,this.d,!1,new A.a1S(p,this),new A.Yj(A.b([A.fU(q,q,B.db,q,q,q,q,q),A.fU(q,q,B.EM,q,q,q,q,q),A.fU(q,q,B.EN,q,q,q,q,q),A.fU(q,q,B.EP,q,q,q,q,q),A.fU(q,q,B.EO,q,q,q,q,q)],t.F),A.aF([null,0],t.LO,t.S)),B.jL,q),q),B.aD,!0),this.Wk(a,s))},
 Wk(a,b){var s=this,r=null,q=s.a.c,p=A.Nm(!1,r,r),o=A.nD(r,new A.a1K(s,a),B.bO,r,A.fx("Home",A.oR(a))),n=A.rG(),m=A.nD(r,new A.a1L(s,a),B.bO,r,A.fx("About Me",A.oR(a))),l=A.rG(),k=A.nD(r,new A.a1M(s,a),B.bO,r,A.fx("Qualifications",A.oR(a))),j=A.rG(),i=A.nD(r,new A.a1N(s,a),B.bO,r,A.fx("Skills",A.oR(a))),h=A.rG(),g=A.nD(r,new A.a1O(s,a),B.bO,r,A.fx("Projects",A.oR(a))),f=A.rG(),e=A.abB(b.a?B.Om:B.On,r)
-return new A.AJ(q*0.35,new A.fk(B.Au,A.a74(A.b([p,o,n,m,l,k,j,i,h,g,f,A.nD(A.fx("Theme",A.oR(a)),new A.a1P(a),B.bO,r,e),A.rG(),A.nD(r,new A.a1Q(),B.bO,A.ab(a).ax.b,A.fx("View CV",A.oR(a).dH(A.ab(a).ax.k2)))],t.F),B.h7,B.da),r),r)}}
+return new A.AJ(q*0.5,new A.fk(B.Au,A.a74(A.b([p,o,n,m,l,k,j,i,h,g,f,A.nD(A.fx("Theme",A.oR(a)),new A.a1P(a),B.bO,r,e),A.rG(),A.nD(r,new A.a1Q(),B.bO,A.ab(a).ax.b,A.fx("View CV",A.oR(a).dH(A.ab(a).ax.k2)))],t.F),B.h7,B.da),r),r)}}
 A.a1S.prototype={
 $1(a){this.b.aE(new A.a1R(this.a,a))},
 $S:12}
