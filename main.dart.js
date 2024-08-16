@@ -81507,7 +81507,7 @@ A.alC.prototype={
 $1(a){return new A.oh(B.d8,$.az())},
 $S:473}
 A.Jx.prototype={
-I(a){return new A.ye(B.Kq,"Flutter Demo",A.dP(a,!0,t.eC).b,!1,null)}}
+I(a){return new A.ye(B.Kq,"Olewuezi Marvellous",A.dP(a,!0,t.eC).b,!1,null)}}
 A.xt.prototype={
 an(){var s=null,r=t.B
 return new A.Qb(A.LA(s,s),new A.by(s,r),new A.by(s,r),new A.by(s,r),new A.by(s,r),new A.by(s,r),new A.by(s,r),B.n)}}
